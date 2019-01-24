@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{AF1E6324-184D-44EC-98FE-776196F21368}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="m1/Program.cs">
+    <Files>
+      <File FileName="m1/Program.cs" Line="322" Column="17" />
+      <File FileName="m1/Laputa.cs" Line="11" Column="10" />
+      <File FileName="m1/packages.config" Line="1" Column="1" />
+      <File FileName="../../Downloads/tbl_lead.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.m1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
